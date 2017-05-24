@@ -1,4 +1,4 @@
-# API Project: Request Header Parser Microservice for freeCodeCamp
+# API Project: Request Header Parser Microservice
 
 ### Project URL: https://opalescent-accelerator.glitch.me/
 
